@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RigelRewatakaen
-- 👀 I’m interested in anime, games, art, math and electrotehniques
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on still not sure!
-- 📫 How to reach me: instagram: @terion_boushoku
+- 👀 I’m interested in arduino microcontrollers and learning basics
+- 🌱 I’m currently learning C,C++ and Arduino
+- 💞️ 
+- 📫 How to reach me: ,,, 
 
 <!---
 RigelRewatakaen/RigelRewatakaen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
